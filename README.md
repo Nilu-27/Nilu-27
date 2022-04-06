@@ -1,5 +1,5 @@
-<h1 align="center">Namaste 🙏, I'm Neelam Sharma</h1>
-<h3 align="center">A impassioned Web Developer.</h3>
+<h1 align="center">Hello, I'm Neelam Sharma</h1>
+<h3 align="center">A Beginner Web Developer. Currently working on PYTHON</h3>
 
 
 
